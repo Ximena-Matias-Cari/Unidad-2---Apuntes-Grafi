@@ -305,19 +305,7 @@ Se desarrolló un sistema para mover un objeto en pantalla.
 
 ---
 
-## 2. Animación con huesos en Blender
-
-Se realizó una animación utilizando un sistema de huesos (armature).
-
-### Conceptos aplicados
-
-- Jerarquía de huesos  
-- Transformaciones locales  
-- Interpolación en línea del tiempo  
-
----
-
-## 3. Animación 2D (mapache)
+## 2. Animación 2D (mapache)
 
 Se creó una animación donde un personaje corre y salta.
 
